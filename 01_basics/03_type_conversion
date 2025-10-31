@@ -21,3 +21,16 @@ console.log(booleanIsLoggedIn)
 let someNumber = 33
 let StringNumber = String(someNumber)
 console.log(typeof StringNumber)
+
+
+let posvalue = 3
+let negvalue = -posvalue
+console.log(negvalue)
+
+console.log(1+"2")//12
+console.log("1"+2)//12
+console.log(1+"2"+1)//121
+console.log(1+2+"1")//31
+console.log(true+1)
+console.log(+"")
+
